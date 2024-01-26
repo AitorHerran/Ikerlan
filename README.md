@@ -21,5 +21,4 @@ Publicación de mensajes en un broker MQTT cuando se activa el freno de emergenc
 Vuelta al estado "SYSTEM ON" cuando la velocidad baja del umbral de emergencia.
 Requisitos Funcionales y No Funcionales
 Uso del lenguaje C para la EK y Python para la Raspberry Pi.
-Implementación de un sistema de diagnóstico safety (CRC) opcional.
-Integración con sensores de movimiento, luz, temperatura y humedad como mejoras opcionales.
+
